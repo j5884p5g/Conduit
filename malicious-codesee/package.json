@@ -1,0 +1,7 @@
+{
+  "name": "codesee",
+  "version": "999.999.999",
+  "bin": {
+    "codesee": "bin/codesee.js"
+  }
+}
